@@ -8,4 +8,12 @@ public class Calc {
     public static int hiku(int a, int b) {
         return(a-b);
     }
+
+    public static int kake(int a, int b) {
+        return(a*b);
+    }
+
+    public static int waru(int a, int b) {
+        return(a/b);
+    }
 }
