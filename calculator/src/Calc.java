@@ -1,5 +1,11 @@
 //演算処理について記入するクラス
 
 public class Calc {
-    //卍
+    public static int tasu(int a, int b) {
+        return(a+b);
+    }
+
+    public static int hiku(int a, int b) {
+        return(a-b);
+    }
 }
